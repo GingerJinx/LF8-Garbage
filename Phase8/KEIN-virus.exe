@@ -1,6 +1,0 @@
-open virus.exe
-install trojan.jar
-install spyjan.jar
-pushto background
-visibility = invisible
-exit()
