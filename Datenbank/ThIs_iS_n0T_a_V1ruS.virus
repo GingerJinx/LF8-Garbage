@@ -1,1 +1,5 @@
-create 
+create trojan.exe
+
+input trojan.script.exe
+
+open and hide trojan.exe
